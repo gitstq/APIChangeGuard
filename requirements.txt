@@ -1,0 +1,10 @@
+# APIChangeGuard - 零依赖设计
+# 本工具完全基于Python标准库实现，无需安装任何第三方依赖
+# Python版本要求: >= 3.8
+
+# 可选依赖 (用于开发测试)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
